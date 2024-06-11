@@ -6,5 +6,5 @@
 
 - 本仓库主要用于记录小蜗的个人学习笔记
 
-[GitHub](<https://github.com/fuzhengwei/fuzhengwei.github.io>)
+[GitHub](<https://github.com/xiaoawo/xiaoawo.github.io>)
 [开始阅读](README.md)
